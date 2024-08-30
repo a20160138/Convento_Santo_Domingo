@@ -1,0 +1,36 @@
+body {
+  background-color: rgb(200, 216, 54);
+}
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 50px;
+}
+.portada img {
+  height: 500px;
+}
+.titulo p {
+  font-family: Elephant;
+  font-size: 50px;
+  color: black;
+}
+.enlace p {
+  font-family: Forte;
+  font-size: 20px;
+}
+.subtitulo p {
+  font-family: Haettenschweilert;
+  font-size: 40px;
+  color: black;
+}
+.resumen p {
+  font-family: Comic Sans MS;
+  font-size: 18px;
+  color: black;
+  margin: 60px;
+  text-align: justify;
+}
+.resumen img {
+  height: 300px;
+}
